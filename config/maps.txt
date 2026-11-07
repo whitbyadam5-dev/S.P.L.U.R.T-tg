@@ -17,6 +17,11 @@ endmap
 
 # Production-level maps.
 
+map Lillihome
+	default
+	votable
+endmap
+
 map deltastation
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/deltastation/
