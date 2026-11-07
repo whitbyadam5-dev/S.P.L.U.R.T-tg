@@ -17,7 +17,7 @@ endmap
 
 # Production-level maps.
 
-map Lillihome
+map LillianaHome
 	default
 	votable
 endmap
