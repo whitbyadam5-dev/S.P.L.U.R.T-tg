@@ -6536,11 +6536,11 @@
 /area/ruin/space/has_grav/port_tarkon/vault)
 "wZ" = (
 /obj/item/stack/medical/wrap/sticky_tape/surgical,
-/obj/structure/table/glass,
 /obj/item/stack/medical/wrap/sticky_tape/surgical,
 /obj/item/stack/medical/bone_gel,
 /obj/machinery/light/directional/north,
 /obj/effect/turf_decal/tile/neutral/fourcorners,
+/obj/structure/table/glass,
 /turf/open/floor/iron/white,
 /area/ruin/space/has_grav/port_tarkon/trauma)
 "xa" = (
